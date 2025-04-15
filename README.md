@@ -2,7 +2,7 @@
 
 Frontend hecho con React, Typescript, ContextAPI y custom hooks, con JSON-Server para simular un backend.
 
-_URL:_ Debido a que use JSON-SERVER, mis unicas opciones eran render o railway, ya que requieren configuraciones especificas para el json, pero no pude subir el proyecto por superar el limite gratuito. De igual forma, estan las instrucciones para ejecutarlo localmente. 🙂👍
+_URL:_ Debido a que use JSON-SERVER, mis unicas opciones eran render o railway, ya que requieren configuraciones especificas para el json, pero no pude subir el proyecto por superar el limite gratuito. Si fuera un backend y frontend separados (lo cual no cumple con los requisitos solicitados) podria subirlos directamente a Vercel. De igual forma, estan las instrucciones para ejecutarlo localmente. 🙂👍
 
 ## _Utilice:_
 
