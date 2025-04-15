@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "email": "admin@admin.com",
+      "password": "12345678",
+      "role": "admin",
+      "id": "1"
+    },
+    {
+      "email": "user@user.com",
+      "password": "12345678",
+      "role": "user",
+      "id": "FdXAXtY"
+    }
+  ],
+  "studies": [
+    {
+      "id": "1",
+      "name": "Ing en sistemas"
+    },
+    {
+      "id": "2",
+      "name": "Ing mecanica"
+    }
+  ],
+  "directions": [
+    {
+      "name": "AV. Springfield",
+      "id": "1"
+    }
+  ],
+  "user_studies": [
+    {
+      "id": "5ee1",
+      "user_id": "1",
+      "study_id": "1"
+    },
+    {
+      "user_id": "FdXAXtY",
+      "study_id": "1",
+      "id": "CKu71_g"
+    }
+  ],
+  "user_directions": [
+    {
+      "id": "1",
+      "user_id": "1",
+      "direction_id": "1"
+    },
+    {
+      "user_id": "FdXAXtY",
+      "direction_id": "1",
+      "id": "k5qoOhD"
+    }
+  ]
+}
